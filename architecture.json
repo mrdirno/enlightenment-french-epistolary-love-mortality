@@ -1,0 +1,160 @@
+{
+  "book_id": "enlightenment_french_epistolary_love_mortality",
+  "title": "The Last Letter from the Manoir de la Lune",
+  "tagline": "A dying philosopher summons her estranged lover to a windswept Breton cliff to settle the final argument of their lives.",
+  "target_words": 70000,
+  "actual_words": 71126,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Epistolary Confession",
+    "Love as Intellectual Warfare",
+    "Mortality as a Philosophical Catalyst",
+    "The Haunting of the Past"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Summons",
+      "words": 2960
+    },
+    {
+      "ch": 2,
+      "title": "The Journey to the Edge",
+      "words": 2960
+    },
+    {
+      "ch": 3,
+      "title": "The Keeper of the Gate",
+      "words": 2960
+    },
+    {
+      "ch": 4,
+      "title": "The First Argument",
+      "words": 2960
+    },
+    {
+      "ch": 5,
+      "title": "The Blue Scarf",
+      "words": 2960
+    },
+    {
+      "ch": 6,
+      "title": "Saint-Malo in Memory",
+      "words": 2960
+    },
+    {
+      "ch": 7,
+      "title": "The Unfinished Manuscript",
+      "words": 2960
+    },
+    {
+      "ch": 8,
+      "title": "The Ghost of Diderot",
+      "words": 2960
+    },
+    {
+      "ch": 9,
+      "title": "A Walk to the Sea",
+      "words": 2960
+    },
+    {
+      "ch": 10,
+      "title": "The Anatomy of a Silence",
+      "words": 2960
+    },
+    {
+      "ch": 11,
+      "title": "The Night Library",
+      "words": 2960
+    },
+    {
+      "ch": 12,
+      "title": "Fever and Philosophy",
+      "words": 2960
+    },
+    {
+      "ch": 13,
+      "title": "The Second Letter",
+      "words": 2960
+    },
+    {
+      "ch": 14,
+      "title": "The Printer's Daughter",
+      "words": 2960
+    },
+    {
+      "ch": 15,
+      "title": "The Storm",
+      "words": 2960
+    },
+    {
+      "ch": 16,
+      "title": "Confession by Candlelight",
+      "words": 2960
+    },
+    {
+      "ch": 17,
+      "title": "The Nature of the Soul",
+      "words": 2960
+    },
+    {
+      "ch": 18,
+      "title": "The Final Business",
+      "words": 2960
+    },
+    {
+      "ch": 19,
+      "title": "Dawn at the Mirror Sands",
+      "words": 2960
+    },
+    {
+      "ch": 20,
+      "title": "The Last Page",
+      "words": 2960
+    },
+    {
+      "ch": 21,
+      "title": "The Empty Desk",
+      "words": 2960
+    },
+    {
+      "ch": 22,
+      "title": "The Return to Paris",
+      "words": 2960
+    },
+    {
+      "ch": 23,
+      "title": "The Legacy of Letters",
+      "words": 2960
+    },
+    {
+      "ch": 24,
+      "title": "The Unbound Book",
+      "words": 2966
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a letter from Éloïse to Julien from five years after their split, one she never sent.",
+      "Describe a day in the life of the housekeeper at the Manoir de la Lune, observing the two philosophers.",
+      "Write the 'final piece of business' Éloïse wants to complete, from her perspective.",
+      "Create a new chapter where Julien discovers a hidden cache of Éloïse's letters to other thinkers."
+    ],
+    "technical": [
+      "Build an interactive map of the Manoir de la Lune and its cliffside setting.",
+      "Create a web app that presents the novel as a series of exchanged letters and diary entries, revealing content based on reader choices."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Madame de Staël",
+      "John Keats",
+      "Simone de Beauvoir",
+      "Mikhail Bulgakov"
+    ]
+  },
+  "cover_prompt": "A solitary woman stands on a windswept cliff edge, her back to the viewer, clutching a single, weathered letter as her dark dress whips violently in the gale, facing the immense, storm-tossed sea below a manor's silhouette, [Detailed Scene & Context: the scene is charged with emotional and intellectual tension, the crashing waves mirroring the turmoil of a final confrontation, with the stark, Gothic architecture of the Manoir de la Lune perched precariously on the cliff behind her, its windows glowing faintly like distant, watchful eyes], [Artistic Style & Medium: in the atmospheric and emotionally resonant style of a Caspar David Friedrich painting, combined with the delicate, melancholic realism of Vilhelm Hammershøi, rendered in textured oil on canvas], [Composition & Camera: book cover framing, a centered and dramatic low-angle composition that emphasizes the vast, oppressive sky and the figure's small, defiant stance against the elements, creating a sense of sublime isolation], [Lighting & Color Palette: dramatic chiaroscuro lighting with a single, cold source breaking through storm clouds, casting long, deep shadows, using a restrained palette of slate grey, charcoal, muted sea foam green, and the faintest wash of pale, lunar gold on the horizon], masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev."
+}
