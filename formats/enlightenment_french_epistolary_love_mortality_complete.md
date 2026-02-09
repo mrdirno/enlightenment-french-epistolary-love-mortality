@@ -1,6 +1,9 @@
+# Chapter 1
+
 ## **CHAPTER 1**
 
-The letter arrived on a Tuesday, smelling of salt and something faintly, unpleasantly sweet, like lilies left too long in a stagnant vase. It was not delivered by the post. I found it on the black-and-white marble tiles of the foyer, just inside the door to my apartment on the Rue des Saints-Pères, as if it had been slipped under the crack by a ghost. The paper was thick, the colour of old cream, and my name—*Monsieur Julien de Launay*—was inscribed in an ink so dark it seemed to drink the light, in a hand I had not seen in seventeen years.
+The wind off the Morbihan coast was a razor, honed on the Atlantic and whetted against the granite cliffs. It sliced through the shutters of the manoir, carrying with it the taste of salt and decay, and found the woman at her escritoire. Her pen, a scratch of black bone against the vellum, did not falter. *Mon cher ennemi,* she began, the ink pooling like a wound, *you will, no doubt, attribute this summons to sentiment. It is not. It is the final experiment, conducted with the only remaining subject: ourselves. I am dying, and I require your rebuttal.*
+
 
 My heart, that traitorous organ, did not leap. It clenched, a cold, hard fist in my chest. I stood holding the thing, the key still in the lock behind me, the sounds of Paris—the distant clatter of a dray cart, a woman calling for a cat—receding into a hum. I carried it to the window, to the grey afternoon light filtering through the lace curtain. I did not want to open it in the shadows.
 
@@ -120,6 +123,8 @@ Our glasses touched. The sound was clean, and sharp, and it echoed in the high, 
 
 ---
 
+# Chapter 2
+
 ## **CHAPTER 2**
 
 I woke to the sound of the sea. It was not the gentle lapping of a lakeshore, but a constant, rhythmic boom and drag, as if the house itself was breathing. The room I had been given was in the turret, circular, with a single slit of a window that framed a vertical slice of grey sky and furious white water. It was spartan: a bed, a washstand, a wardrobe of black oak that looked as if it had grown from the floor. My valise sat on a chair, a lonely piece of the present in this ancient space.
@@ -234,6 +239,8 @@ I realized, with a chill, that she had not asked me a single question about my l
 It was a profound, and profoundly unsettling, dismissal. And it made me want, more than anything, to know what lay in that dark wing she had told me to avoid.
 
 ---
+
+# Chapter 3
 
 ## **CHAPTER 3**
 
