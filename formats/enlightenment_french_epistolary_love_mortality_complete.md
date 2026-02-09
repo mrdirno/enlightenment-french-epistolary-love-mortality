@@ -2,7 +2,9 @@
 
 ## **CHAPTER 1**
 
-The wind off the Morbihan coast was a razor, honed on the Atlantic and whetted against the granite cliffs. It sliced through the shutters of the manoir, carrying with it the taste of salt and decay, and found the woman at her escritoire. Her pen, a scratch of black bone against the vellum, did not falter. *Mon cher ennemi,* she began, the ink pooling like a wound, *you will, no doubt, attribute this summons to sentiment. It is not. It is the final experiment, conducted with the only remaining subject: ourselves. I am dying, and I require your rebuttal.*
+My dearest Sophie,
+Forgive this ink, these trembling fingers. The physician left an hour ago, his silence more damning than any prognosis. I write not of phlegm or fever, but of the absurd comedy: a heart, they say, grown weary of its purpose, choosing now—amidst our most ardent correspondence—to betray its rhythm.
+
 
 
 My heart, that traitorous organ, did not leap. It clenched, a cold, hard fist in my chest. I stood holding the thing, the key still in the lock behind me, the sounds of Paris—the distant clatter of a dray cart, a woman calling for a cat—receding into a hum. I carried it to the window, to the grey afternoon light filtering through the lace curtain. I did not want to open it in the shadows.
